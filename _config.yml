@@ -1,0 +1,9 @@
+# Site settings
+title: HeroBoyfriend drinks
+email: hello@heroboyfriend.com
+description: Helpful notes about the HeroBoyfriend drinks meetup.
+baseurl: ""
+url: "http://drinks.heroboyfriend.com"
+
+# Build settings
+markdown: kramdown
